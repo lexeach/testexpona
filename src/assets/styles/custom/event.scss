@@ -1,0 +1,35 @@
+.custom-nav {
+  ul {
+    margin-right: 130px;
+    // background-color: #000000;
+    li {
+      padding-left: 10px;
+      padding-right: 10px;
+      a {
+        color: #ffffff;
+      }
+    }
+  }
+}
+.custom-eventlist {
+  .totalCount {
+    color: green;
+    font-size: 20px;
+  }
+  .custom-select {
+    .css-yk16xz-control {
+      width: 150px !important;
+    }
+  }
+}
+
+.event-custom-select {
+  .css-g1d714-ValueContainer {
+    padding-top: 10px !important;
+  }
+  .css-1hb7zxy-IndicatorsContainer {
+    position: absolute !important;
+    right: 0;
+    top: 0;
+  }
+}
